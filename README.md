@@ -39,7 +39,7 @@ Inspired by the biological *axon*, the signal-transmitting component of neurons�
 Unlike static rule-based systems, AXON:
 
 - Computes fraud probability in real time.
-- Detects hidden Account–Device–IP relationships.
+- Detects hidden Account–Device-IP relationships.
 - Identifies coordinated fraud chains (智链 analysis).
 - Provides AI-driven audit recommendations.
 
@@ -111,7 +111,7 @@ AXON consists of four core intelligence layers:
 - High-risk classification  
 
 ### 3️⃣ Network Intelligence Layer (智链)
-- Account–Device–IP graph modeling  
+- Account-Device-IP graph modeling  
 - Fraud ring detection  
 - Shared infrastructure anomaly analysis  
 
